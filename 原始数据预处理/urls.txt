@@ -1,0 +1,114 @@
+	代号	数量
+民宿 	1 	10 26
+快捷连锁 	2 	4 1
+高端连锁 	3 	5 1
+
+
+26
+https://hotels.ctrip.com/hotel/12401665.html
+https://hotels.ctrip.com/hotel/12658168.html
+https://hotels.ctrip.com/hotel/14074367.html
+https://hotels.ctrip.com/hotel/18419078.html
+https://hotels.ctrip.com/hotel/13903172.html
+https://hotels.ctrip.com/hotel/11062910.html
+https://hotels.ctrip.com/hotel/23842206.html
+https://hotels.ctrip.com/hotel/18513236.html
+https://hotels.ctrip.com/hotel/14996066.html
+https://hotels.ctrip.com/hotel/18439664.html
+https://hotels.ctrip.com/hotel/8578390.html
+https://hotels.ctrip.com/hotel/11538270.html
+https://hotels.ctrip.com/hotel/6186799.html
+https://hotels.ctrip.com/hotel/7495133.html
+https://hotels.ctrip.com/hotel/10841825.html
+https://hotels.ctrip.com/hotel/1973753.html
+https://hotels.ctrip.com/hotel/5834314.html
+https://hotels.ctrip.com/hotel/2008397.html
+https://hotels.ctrip.com/hotel/6639589.html
+https://hotels.ctrip.com/hotel/9149444.html
+https://hotels.ctrip.com/hotel/6653684.html
+https://hotels.ctrip.com/hotel/6109956.html
+https://hotels.ctrip.com/hotel/768053.html
+https://hotels.ctrip.com/hotel/6581278.html
+https://hotels.ctrip.com/hotel/1416611.html
+https://hotels.ctrip.com/hotel/18436029.html
+
+
+
+
+
+
+
+
+
+民宿
+https://hotels.ctrip.com/hotel/6014366.html
+https://hotels.ctrip.com/hotel/6360184.html
+https://hotels.ctrip.com/hotel/10826531.html
+https://hotels.ctrip.com/hotel/14131511.html
+https://hotels.ctrip.com/hotel/11062910.html
+https://hotels.ctrip.com/hotel/5792163.html
+https://hotels.ctrip.com/hotel/5894802.html
+https://hotels.ctrip.com/hotel/12658168.html
+https://hotels.ctrip.com/hotel/6592168.html
+https://hotels.ctrip.com/hotel/11500558.html
+
+快捷连锁 5819
+1  728
+https://hotels.ctrip.com/hotel/15018492.html
+6    1915
+https://hotels.ctrip.com/hotel/18431318.html
+7    2145
+https://hotels.ctrip.com/hotel/17284331.html
+9    1031
+https://hotels.ctrip.com/hotel/12131143.html
+
+
+5   4517
+https://hotels.ctrip.com/hotel/6874402.html
+
+
+高端连锁  8361
+10   2145
+https://hotels.ctrip.com/hotel/17284331.html
+7    2701
+https://hotels.ctrip.com/hotel/16197084.html
+4   728
+https://hotels.ctrip.com/hotel/15018492.html
+1  1669
+https://hotels.ctrip.com/hotel/13436038.html
+3   1118
+https://hotels.ctrip.com/hotel/12603011.html
+
+
+
+6    6384
+https://hotels.ctrip.com/hotel/6245432.html
+
+
+
+
+
+
+快捷连锁
+2  13291
+https://hotels.ctrip.com/hotel/1073814.html
+3   6573
+https://hotels.ctrip.com/hotel/437892.html
+4   6384
+https://hotels.ctrip.com/hotel/6245432.html
+8    7120
+https://hotels.ctrip.com/hotel/7248211.html
+10   3509
+https://hotels.ctrip.com/hotel/690633.html
+
+
+
+高端连锁
+2  8108
+https://hotels.ctrip.com/hotel/4399431.html
+5   6573
+https://hotels.ctrip.com/hotel/437892.html
+8    8674
+https://hotels.ctrip.com/hotel/428827.html
+9    10287
+https://hotels.ctrip.com/hotel/3792196.html
